@@ -1,2 +1,2 @@
 # piscina
-Pool of Object Pattern Exercise
+Pool of Objects Pattern Exercise
